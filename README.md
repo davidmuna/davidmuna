@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Muna</h1>
-<h3 align="center">Highly adept Data Scientist who is self-driven to inspire productivity in Backend Development, AI, Machine Learning, Data Analysis, and Data Visualization to help organizations achieve their goals of being data-driven through consented Teamwork, Collaboration, and Quality Assurance.</h3>
+<h3 align="center">Highly adept Data Scientist who is self-driven to inspire productivity in Backend Software Development, AI, Machine Learning, Data Analysis, and Data Visualization to help organizations achieve their goals of being data-driven through consented Teamwork, Collaboration, and Quality Assurance.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidmuna&label=Profile%20views&color=0e75b6&style=flat" alt="davidmuna" /> </p>
 
