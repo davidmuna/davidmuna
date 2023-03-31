@@ -10,16 +10,19 @@
 - 👯 I’m looking to collaborate on **End-To-End AI/ML/DL Projects**
 
 - 💬 Ask me about 
-**Data Science/AI Toolbox:**
+**My Data Science/AI Toolbox:**
 
 **A. Supervised**
+
 **1. Regression - Linear, multiple linear, polynomial, logistic, ridge, lasso, elastic net, Kolmogorov Smirnov Statistics, etc 2. Classification - SVM, KNN, NLP using Kmers, CART, Decision Trees, Random Forest, XGBoost, AdaBoost, Naive Bayes, ANNs/RNNs, LSTMs, etc 3. Time Series Forecasting - LSTMs** 
 
 **B. Unsupervised**
+
 **1. K-means clustering 2. Association rules analysis in R 3. Hierarchical clustering**
 
 **C. Relevant Skills and Technologies**
-**Object Oriented Programming using Python, R, SQL, SQLite, MongoDB, JSON, Postman, Flask, AWS S3 Bucket, Textract, VSCode, PyCharm, Git, Github, Google Colab, Anaconda, PowerBI, Tableau, Looker, JIRA**
+
+**Object Oriented Programming using Python, R, SQL, SQLite, MongoDB, JSON, Postman, Flask, AWS S3 Bucket, AWS Textract, AWS Elastic Beanstalk, VSCode, PyCharm, Git, Github, Google Colab, Anaconda, PowerBI, Tableau, Looker, JIRA**
 
 - 📫 How to reach me **munamwangid@gmail.com**
 
